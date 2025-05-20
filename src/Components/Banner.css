@@ -1,0 +1,108 @@
+.banner {
+  margin-top: 25px;
+  color: white;
+  padding: 3rem 1rem;
+  border-radius: 1rem;
+}
+
+.banner-heading {
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+
+
+@keyframes blink {
+  from, to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
+}
+
+.banner-description {
+  margin-top: 1rem;
+  font-weight: 300;
+  color: #dcdcdc;
+}
+
+/* Responsive Font Sizes */
+.banner-heading {
+  font-size: 2rem;
+}
+.banner-description {
+  font-size: 1rem;
+}
+
+@media (min-width: 576px) {
+  .banner-heading {
+    font-size: 2.4rem;
+  }
+  .banner-description {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .banner-heading {
+    font-size: 2.8rem;
+  }
+  .banner-description {
+    font-size: 1.15rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .banner-heading {
+    font-size: 3.2rem;
+  }
+  .banner-description {
+    font-size: 1.2rem;
+  }
+}
+
+.banner-buttons .btn {
+  font-weight: 500;
+  padding: 0.6rem 1.2rem;
+  border-radius: 30px;
+}
+
+.banner-image {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+.cursor {
+  display: inline-block;
+  margin-left: 2px;
+  animation: blink 1s infinite;
+  color: white;
+  font-weight: bold;
+  
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@media (max-width: 575px) {
+  .banner-image {
+    max-width: 60% !important;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .banner-heading {
+    font-size: 1 rem !important;
+  }
+}
+
+
+.btm-hire{
+  background: orange;
+}

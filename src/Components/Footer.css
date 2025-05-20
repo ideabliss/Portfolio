@@ -1,0 +1,74 @@
+/* Sticky banner at bottom */
+.scroll-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #ffffff;
+  color: #000;
+  padding: 10px 25px;
+  z-index: 999;
+  font-weight: 600;
+  font-size: 1rem;
+  box-shadow: 0 -2px 15px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Scrolling text container */
+.scrolling-text {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  width: 70%;
+}
+
+/* Scrolling content with gap between sets */
+.scrolling-text span {
+  display: inline-block;
+  animation: scrollLoop 16s linear infinite;
+  color: #000;
+  letter-spacing: 0.5px;
+  padding-right: 100px; /* gap between sets */
+}
+
+/* Animation */
+@keyframes scrollLoop {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Resume Button Styling */
+.resume-btn {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #000;
+  padding: 8px 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.resume-btn:hover {
+  background-color: #ffc107;
+  color: #000;
+  border-color: #ffc107;
+}
+
+/* Hide scroll banner on small screens */
+@media (max-width: 576px) {
+  .scroll-banner {
+    display: none !important;
+  }
+}
+
+
+.social-icons a {
+  margin-bottom: 5rem; /* Ensures spacing even if not set inline */
+}

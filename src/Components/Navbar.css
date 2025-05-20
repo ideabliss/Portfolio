@@ -1,0 +1,23 @@
+.nav-container {
+    margin-top: 25px;
+  
+}
+
+.unclickable {
+  cursor: default;
+  user-select: none;
+  font-size: 1.1rem;
+}
+
+.unclickable:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* Optional: Responsive tweaks */
+@media (max-width: 768px) {
+  .unclickable {
+    font-size: 1rem;
+    text-align: center !important;
+  }
+}

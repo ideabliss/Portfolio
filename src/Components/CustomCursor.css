@@ -1,0 +1,14 @@
+/* Hide default cursor */
+
+
+.gaming-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 32px; /* adjust based on your image */
+  height: 32px;
+  pointer-events: none;
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: difference; /* optional: gives a glow-like effect on dark backgrounds */
+}
