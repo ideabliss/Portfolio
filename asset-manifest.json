@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b84fbd98.css",
-    "main.js": "/Portfolio/static/js/main.d3d92e79.js",
-    "static/js/453.511d74a9.chunk.js": "/Portfolio/static/js/453.511d74a9.chunk.js",
-    "static/media/cursor.png": "/Portfolio/static/media/cursor.9fbf3997c97272fe56b8.png",
-    "static/media/p2.png": "/Portfolio/static/media/p2.b1f860eb68a7116ccbc2.png",
-    "static/media/p3.png": "/Portfolio/static/media/p3.fe3c2f767c812ae54f54.png",
-    "static/media/p4.png": "/Portfolio/static/media/p4.f2f564191ab6eefd81b8.png",
-    "static/media/p1.png": "/Portfolio/static/media/p1.21120040ef4823416c6a.png",
-    "static/media/application.png": "/Portfolio/static/media/application.7a9cb0617b471cd30342.png",
-    "static/media/Me.png": "/Portfolio/static/media/Me.d25d216b6aee099ade89.png",
-    "static/media/disgner.png": "/Portfolio/static/media/disgner.6b30fd988b6e6373b05e.png",
-    "static/media/design.png": "/Portfolio/static/media/design.6b937bbecd95943045dc.png",
-    "static/media/website.png": "/Portfolio/static/media/website.3d2236016bba602a8cb4.png",
-    "static/media/app.png": "/Portfolio/static/media/app.d93524b17a9423e6a711.png",
-    "static/media/backend.webp": "/Portfolio/static/media/backend.db108c5d6cfd59f84ade.webp",
-    "static/media/frontend.png": "/Portfolio/static/media/frontend.2a55b3e521630ac9ce93.png",
-    "index.html": "/Portfolio/index.html",
-    "main.b84fbd98.css.map": "/Portfolio/static/css/main.b84fbd98.css.map",
-    "main.d3d92e79.js.map": "/Portfolio/static/js/main.d3d92e79.js.map",
-    "453.511d74a9.chunk.js.map": "/Portfolio/static/js/453.511d74a9.chunk.js.map"
+    "main.css": "/Aditya-Shinde-Portfolio/static/css/main.b84fbd98.css",
+    "main.js": "/Aditya-Shinde-Portfolio/static/js/main.f5f4c6ef.js",
+    "static/js/453.65516ae5.chunk.js": "/Aditya-Shinde-Portfolio/static/js/453.65516ae5.chunk.js",
+    "static/media/cursor.png": "/Aditya-Shinde-Portfolio/static/media/cursor.9fbf3997c97272fe56b8.png",
+    "static/media/p2.png": "/Aditya-Shinde-Portfolio/static/media/p2.b1f860eb68a7116ccbc2.png",
+    "static/media/p3.png": "/Aditya-Shinde-Portfolio/static/media/p3.fe3c2f767c812ae54f54.png",
+    "static/media/p4.png": "/Aditya-Shinde-Portfolio/static/media/p4.f2f564191ab6eefd81b8.png",
+    "static/media/p1.png": "/Aditya-Shinde-Portfolio/static/media/p1.21120040ef4823416c6a.png",
+    "static/media/application.png": "/Aditya-Shinde-Portfolio/static/media/application.7a9cb0617b471cd30342.png",
+    "static/media/Me.png": "/Aditya-Shinde-Portfolio/static/media/Me.d25d216b6aee099ade89.png",
+    "static/media/disgner.png": "/Aditya-Shinde-Portfolio/static/media/disgner.6b30fd988b6e6373b05e.png",
+    "static/media/design.png": "/Aditya-Shinde-Portfolio/static/media/design.6b937bbecd95943045dc.png",
+    "static/media/website.png": "/Aditya-Shinde-Portfolio/static/media/website.3d2236016bba602a8cb4.png",
+    "static/media/app.png": "/Aditya-Shinde-Portfolio/static/media/app.d93524b17a9423e6a711.png",
+    "static/media/backend.webp": "/Aditya-Shinde-Portfolio/static/media/backend.db108c5d6cfd59f84ade.webp",
+    "static/media/frontend.png": "/Aditya-Shinde-Portfolio/static/media/frontend.2a55b3e521630ac9ce93.png",
+    "index.html": "/Aditya-Shinde-Portfolio/index.html",
+    "main.b84fbd98.css.map": "/Aditya-Shinde-Portfolio/static/css/main.b84fbd98.css.map",
+    "main.f5f4c6ef.js.map": "/Aditya-Shinde-Portfolio/static/js/main.f5f4c6ef.js.map",
+    "453.65516ae5.chunk.js.map": "/Aditya-Shinde-Portfolio/static/js/453.65516ae5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b84fbd98.css",
-    "static/js/main.d3d92e79.js"
+    "static/js/main.f5f4c6ef.js"
   ]
 }
